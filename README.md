@@ -1,12 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Aicha! <br/><a href="">A computer Science Student</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Web Development Enthusiat</a>
+<h4>I'm a Computer Science student at the University of Wisconsin-Platteville, passionate about front-end web development. I enjoy turning ideas into functional, user-friendly websites and continuously explore new technologies to enhance my skills.</h4>
 
-I'm Aicha Koma, a passionate Computer Science student at the University of Wisconsin-Platteville, focussing on front-end web development. I love turning ideas into functional user-friendly websites and I am constantly exploring new technologies to enhance my skills.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-🔭 I’m currently working on Building a YouTube Website Clone with HTML and CSS, mimicking the platform's design and user interface
+- <b>Youtube Website Clone</b>
+  - [Practicing HTML and CSS]("project link here")
 
-- 🌱 I’m currently learning JavaScript to build dynamic, interactice web pages.
-  
-- 👯 I’m looking to collaborate on front-end projects involving HTML, CSS, JavaScript or React.
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="aichakoma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/aichakoma/
 
 
 
