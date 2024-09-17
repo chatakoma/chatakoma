@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Youtube Website Clone</b>
-  - [Practicing HTML and CSS]("https://github.com/chatakoma/YouTube-Website-Clone")
+  - [Practicing HTML and CSS](https://github.com/chatakoma/YouTube-Website-Clone)
 
 <h2> 🤳 Connect with me:</h2>
 
