@@ -4,14 +4,18 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Youtube Website Clone</b>
-  - [Practicing HTML and CSS](https://github.com/chatakoma/YouTube-Website-Clone)
+  - [Link to Project](https://github.com/chatakoma/YouTube-Website-Clone)
     
 - <b>CyberLab Student View</b>
-  - [Practicing HTML and CSS](https://github.com/chatakoma/CyberLab-Project)
-   
+  - [Link to Project](https://github.com/chatakoma/CyberLab-Project)
+    
+- <b>Mini Projects</b>
+
+  - [Link to Projects]( https://github.com/chatakoma/Mini-Projects)
+  
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="aichakoma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="aichakoma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/aichakoma/
 
