@@ -1,5 +1,5 @@
-<h1>Hi, I'm Aicha! <br/><a href="">A computer Science Graduate</a>, <a href="https://www.linkedin.com/in/aichakoma/">Software Engineering and Web Development Enthusiast</a>
-<h4>I'm a Computer Science student at the University of Wisconsin-Platteville, passionate about front-end web development. I enjoy turning ideas into functional, user-friendly websites and continuously explore new technologies to enhance my skills.</h4>
+<h1>Hi, I'm Aicha! <br/><a href="">Computer Science graduate</a>, <a href="https://www.linkedin.com/in/aichakoma/">with strong interests in Machine Learning, Artificial Intelligence, and Software Engineering</a>
+<h4>.</h4>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
