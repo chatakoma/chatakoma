@@ -1,4 +1,5 @@
-<h1>Hi, I'm Aïcha! <br/><a href="">A Computer Science graduate</a>, <a href="https://www.linkedin.com/in/aichakoma/">with strong interests in Machine Learning, Artificial Intelligence, and Software Engineering</a>
+<h1>Hi, I'm Aïcha!👋<br/><a href="">Computer Science graduate</a>, <a href="https://www.linkedin.com/in/aichakoma/">with strong interests in Software Engineering, Machine Learning, and Artificial Intelligence</a>
+<h2>Always learning and building</h2>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Youtube Website Clone</b>
