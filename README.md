@@ -5,8 +5,8 @@
 - <b>Youtube Website Clone</b>
   - [Link to Project](https://github.com/chatakoma/YouTube-Website-Clone)
     
-- <b>CyberLab Student View</b>
-  - [Link to Project](https://github.com/chatakoma/CyberLab-Project)
+- <b>Python Projects</b>
+  - [Link to Projects](https://github.com/chatakoma/Python-Projects)
     
 - <b>Mini Projects</b>
 
