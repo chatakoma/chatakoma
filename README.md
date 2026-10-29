@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aïcha!👋<br/><a href="">Computer Science graduate</a>, <a href="https://www.linkedin.com/in/aichakoma/">with hands-on experience in IT Support, aspiring to build a career in Systems Administration, with a strong interest in Artificial Intelligence.</a>
 <h2>Always learning and building******</h2>
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻MY Projects:</h2>
 
 - <b>Youtube Website Clone</b>
   - [Link to Project](https://github.com/chatakoma/YouTube-Website-Clone)
